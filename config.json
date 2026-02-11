@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Noyon Chowdhury",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -18,7 +18,7 @@
   "ADMINBOT": [
     "100072632495752"
   ],
-  "NDH": ["100044713412032"],
+  "NDH": ["100072632495752"],
   "adminOnly": false,
   "ndhOnly": false,
   "adminPaOnly": false,
@@ -131,7 +131,7 @@
   },
 
   "Security": {
-    "caesar": { "caeserPassword": "123456" },
+    "caesar": { "caeserPassword": "258036" },
     "log": { "enable": true },
     "god": { "enable": true }
   }
